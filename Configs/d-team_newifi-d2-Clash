@@ -123,6 +123,8 @@ CONFIG_PACKAGE_jq=y
 CONFIG_PACKAGE_lsblk=y
 CONFIG_PACKAGE_ppp-mod-pptp=y
 CONFIG_PACKAGE_ppp-mod-pppol2tp=y
+# CONFIG_PACKAGE_shadowsocks-rust-sslocal is not set
+# CONFIG_PACKAGE_shadowsocks-libev-ss-local is not set
 CONFIG_PACKAGE_wpad-openssl=y
 # CONFIG_PACKAGE_Xray-core is not set
 CONFIG_PACKAGE_xz=y
